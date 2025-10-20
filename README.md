@@ -16,14 +16,8 @@ For figure 5 -12: additional packages are required:
 pylab, rioxarray, geopandas, pickle, mpl_toolkits, scipy, shapely
 You could install them in your current environment 
 
-3."figure5to11_error_floor" generate figure 5-11. 
+4."figure5to11_error_floor" generate figure 5-11. 
 Note: a long time is needed for the results plotted in figure 5, 7, 9, 12. 
-=======
+
 Codes for the paper Nyquist principal for sampling adequacy and uncertainty quantification in geographical data
-
-* "sampling error floor" for the figure 3. The Test 1
-* "Gpy_sim" for the figure 4 of the paper. The Test 1 
-
-* "limit_sampling" for figure 5 - 12, the Test 2 using simulated and real-world data. 
-
->>>>>>> 9c40a863e503d4d4b95a60ea37566705a09eb814
+ 
