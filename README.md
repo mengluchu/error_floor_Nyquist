@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 The python packages required are : 
 math, mpmath, numpy, matplotlib, pandas, and GPy. 
 You could either install them, 
