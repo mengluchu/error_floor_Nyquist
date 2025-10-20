@@ -4,8 +4,14 @@ math, mpmath, numpy, matplotlib, pandas, and GPy.
 You could either install them, 
 pip install mpmath numpy matplotlib pandas GPy
 
-Or using the conda environment "gpy" we created by following the steps below:
-navigate to the directory of the yml file, then run: conda env create -f gpy.yml. Once the environment is created, activate it by calling: conda activate gpy
+Or using the conda environment "gpy.yml" we created by following the steps below:
+navigate to the directory of the yml file, then run: 
+
+conda env create -f gpy.yml. 
+
+Once the environment is created, activate it by calling: 
+
+conda activate gpy
 
 Then the following script could be run:
 1. "sampling_errorfloor_f3" generates the figure 3 in the paper Nyquist principal for sampling adequacy and uncertainty quantification
